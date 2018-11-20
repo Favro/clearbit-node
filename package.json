@@ -25,7 +25,7 @@
     "bluebird": "2",
     "create-error": "0.3",
     "lodash": "^4.17.11",
-    "needle": "github:clearbit/needle#84d28b5f2c3916db1e7eb84aeaa9d976cc40054b"
+    "needle": "^2.2.4"
   },
   "devDependencies": {
     "chai": "1",
