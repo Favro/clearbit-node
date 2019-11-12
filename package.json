@@ -24,8 +24,8 @@
   "dependencies": {
     "bluebird": "2",
     "create-error": "0.3",
-    "lodash": "^4.17.11",
-    "needle": "^2.2.4"
+    "lodash": "^4.17.15",
+    "needle": "^2.4.0"
   },
   "devDependencies": {
     "chai": "1",
