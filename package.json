@@ -24,7 +24,7 @@
   "dependencies": {
     "bluebird": "2",
     "create-error": "0.3",
-    "lodash": "4.x",
+    "lodash": "^4.17.20",
     "needle": "^2.4.0"
   },
   "devDependencies": {
